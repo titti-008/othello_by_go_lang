@@ -1,9 +1,12 @@
 ## Othello
-* Written by GO language.
-* Written by TTD.
 
+- Written by GO language.
+- Written by TTD.
 
 ## Usage
+
+play command
+
 ```shell
 ./othello
 ```

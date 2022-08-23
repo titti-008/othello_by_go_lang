@@ -13,7 +13,7 @@ func TestNewPlayer(t *testing.T) {
 	}
 
 	for y := range player1.board {
-		for x := range player1.board { 
+		for x := range player1.board {
 			if player1.board[y][x] != false {
 				t.Errorf("player1.board[%d][%d]の値がfalseではありません", y, x)
 			}
@@ -29,5 +29,3 @@ func TestPrintPut(t *testing.T) {
 		t.Errorf("want `Player1 put stone (x: 3, y:2)` but got %s", message)
 	}
 }
-
-
