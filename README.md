@@ -1,6 +1,6 @@
 ## Othello
 
-![game_preview]("image/game_image.png")
+![game_preview](image/game_image.png)
 
 - Written by GO language.
 - Written by TTD.
